@@ -98,8 +98,13 @@ GitHub Actions Workflow: `.github/workflows/ci-cd.yml`
 
 ## 🖼️ Screenshots
 
-> Tambahkan screenshot ke folder atau link langsung dari GitHub:
-
 * ✅ GitHub Actions pipeline success
+![image](https://github.com/user-attachments/assets/fa5f3ba6-cfba-493c-bfc5-54f7c206f4b6)
+
 * ✅ Application running in browser via Minikube
+![image](https://github.com/user-attachments/assets/86ff01a2-ed04-4b45-bb37-5707ba0fd5d0)
+
+![image](https://github.com/user-attachments/assets/99822668-affd-419b-a017-e8d8aa480fe0)
+
 * ✅ DockerHub image pushed
+![image](https://github.com/user-attachments/assets/d4866401-f65e-473e-a793-29e831447a28)
